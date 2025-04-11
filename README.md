@@ -1,7 +1,5 @@
 ## This README is a work in progress... 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmstoic&layout=compact&theme=tokyonight)
-
 
 
 <!--
