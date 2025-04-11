@@ -1,5 +1,9 @@
 ## This README is a work in progress... 
 
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mmstoic&show_icons=true&theme=radical)
+
+
 <!--
 **mmstoic/mmstoic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
