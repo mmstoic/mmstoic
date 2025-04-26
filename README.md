@@ -1,4 +1,35 @@
-## This README is a work in progress... 
+### Welcome to my GitHub! 
+
+## About me
+- Student at Barnard College of Columbia University 🌆
+- One year of experience in cybersecurity
+
+## Ask me about my interests and experiences in:
+- Cybersecurity
+- Web exploitation
+- Pen testing
+- Binary exploitation
+- Systems programming
+
+## What I know:
+### Languages:
+- C
+- Python
+- SQL
+- x86 Assembly
+- MIPS Assembly
+- Java
+### Tools:
+- BurpSuite
+- Wireshark
+- Git
+- tcpdump
+- Linux CLI
+
+Work in progress...
+
+
+
 
 
 
