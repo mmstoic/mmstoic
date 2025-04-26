@@ -11,21 +11,6 @@
 - Binary exploitation
 - Systems programming
 
-## What I know:
-### Languages:
-- C
-- Python
-- SQL
-- x86 Assembly
-- MIPS Assembly
-- Java
-### Tools:
-- BurpSuite
-- Wireshark
-- Git
-- tcpdump
-- Linux CLI
-
 Work in progress...
 
 
