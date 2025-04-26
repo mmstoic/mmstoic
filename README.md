@@ -2,7 +2,6 @@
 
 ## About me
 - Student at Barnard College of Columbia University 🌆
-- One year of experience in cybersecurity
 
 ## Ask me about my interests and experiences in:
 - Cybersecurity
