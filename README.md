@@ -1,16 +1,14 @@
-### Welcome to my GitHub! 
+### Welcome to my GitHub page! 
 
 ## About me
 - Student at Barnard College of Columbia University 🌆
 
 ## Ask me about my interests and experiences in:
-- Cybersecurity
-- Web exploitation
-- Pen testing
-- Binary exploitation
-- Systems programming
-
-Work in progress...
+- Cybersecurity 🔐
+- Web exploitation 🌐
+- Pen testing 🔏
+- Binary exploitation 🔢
+- Systems programming ⚙️
 
 
 
