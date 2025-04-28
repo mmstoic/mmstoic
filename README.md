@@ -1,9 +1,9 @@
 ### Welcome to my GitHub page! 
 
-## About me
+#### About me
 - Student at Barnard College of Columbia University 🌆
 
-## Ask me about my interests and experiences in:
+#### Ask me about my interests and experiences in:
 - Cybersecurity 🔐
 - Web exploitation 🌐
 - Pen testing 🔏
